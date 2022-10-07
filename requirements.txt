@@ -1,0 +1,4 @@
+lxml>=4.9.1
+openpyxl
+pandas>=1.4.3
+html2text>=2020.1.16
